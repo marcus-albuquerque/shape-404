@@ -1,4 +1,4 @@
-# 💪 Meu Treino - Guia de Exercícios PWA
+# 💪 Shape 404 - Guia de Exercícios PWA
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
@@ -7,7 +7,7 @@
 
 ## 📱 Sobre o Projeto
 
-**Meu Treino** é um aplicativo web progressivo (PWA) para acompanhamento de exercícios de academia. Desenvolvido com React e Vite, o app permite que você consulte exercícios, monte treinos personalizados, registre séries e controle o tempo de descanso com alarme.
+**Shape 404** é um aplicativo web progressivo (PWA) para acompanhamento de exercícios de academia. Desenvolvido com React e Vite, o app permite que você consulte exercícios, monte treinos personalizados, registre séries e controle o tempo de descanso com alarme.
 
 > **Diferencial:** Ao contrário de apps nativos, este PWA não precisa da Apple Store, nunca expira e funciona offline - basta instalar direto do navegador!
 
